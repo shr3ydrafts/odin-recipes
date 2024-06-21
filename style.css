@@ -20,6 +20,7 @@ h2, h3 {
 }
 
 p {
+    background-color: white;
     color: red;
     text-align: left;
     font-weight: bold;
